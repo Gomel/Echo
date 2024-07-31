@@ -23,4 +23,3 @@ fpdf
 pypandoc
 loguru
 gtts
-screen
