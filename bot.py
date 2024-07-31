@@ -672,7 +672,7 @@ if __name__ == '__main__':
     setup_removebg(dp)
     
     install_ffmpeg()
-    install_screen()
+    #install_screen()
     
     setup_bot_info()
 
